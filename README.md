@@ -28,4 +28,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-![proje resmimiz](img.png)
